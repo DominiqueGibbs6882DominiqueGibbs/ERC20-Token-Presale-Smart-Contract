@@ -159,3 +159,4 @@ These functions are only called by the investor.
 ```bash
   function getOwner() public view returns (address) {}
 ``` 
+<!-- Auto-update: 2025-10-10T13:56:46.494455 -->
